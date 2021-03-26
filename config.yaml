@@ -24,7 +24,6 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/markomijovic/markomijovic.github.io
-  background: "images/site/background2.jpg"
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
 
