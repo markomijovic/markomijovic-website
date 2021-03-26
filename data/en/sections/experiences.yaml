@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: TC Energy.
+    url: "https://www.tcenergy.com"
+    location: Calgary
+    # company overview
+    overview: TC Energy is an energy company that specializes in midstream solutions and power generation.
+  positions:
+  - designation: Risk and Engineering Strategy Intern
+    start: May 2019
+    end: Aug 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Data analysis and visualization using the Python programming language
+    - Automation of repetitive day-to-day tasks with simple data pipelines
+    - Static and dynamic map plotting tool in Java that utilizes Microsoft's GeoMap API
+
+- company:
+    name: HeatLink.
+    url: "https://www.heatlink.com/"
+    location: Calgary
+    overview: HeatLink is supplier of potable water and radiant hydronic heating/cooling and snow melt systems.
+  positions:
+  - designation: Assistant Production Manager Intern
+    start: May 2018
+    end: Aug 2018
+    responsibilities:
+    - Design of a cam and follower fatigue-inducing mechanism
+    - Empirical sensor data acquisition and data analysis in MATLAB
+    - Hands-on experience with power tools and some heavy-duty machinery

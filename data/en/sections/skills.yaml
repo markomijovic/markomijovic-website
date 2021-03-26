@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Data analysis, visualization and ML applications. Capable of writing scalable, testable, and maintainable program."
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Data structures and algorithms personal/school learning projects."
+
+- name: JavaScript / MERN
+  logo: /images/sections/skills/javascript.png
+  summary: "Web development with several repos worth of experience. MERN stack + GraphQL."
+
+- name: HTML / CSS3
+  logo: /images/sections/skills/html-coding.png
+  summary: "Static web design. Experienced with simple implementations only."
+
+- name: C
+  logo: /images/sections/skills/c.png
+  summary: "School assignments only."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly use Github."
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Write some of the programs as dockerized container where it makes sense to do so."
