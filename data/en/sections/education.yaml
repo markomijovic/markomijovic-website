@@ -24,7 +24,7 @@ degrees:
     url: "#"
   grade: #(optional)
     scale: CGPA
-    achieved: 3.9
-    outOf: 4
+    achieved: 3.87
+    outOf: 4.00
   extracurricularActivities: #(optional)
   - VP Mechanical Engineering at Schulich UAV
