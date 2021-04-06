@@ -11,9 +11,9 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Python
+- name: Python / PyTorch
   logo: /images/sections/skills/python.png
-  summary: "Data analysis, visualization and ML applications. Capable of writing scalable, testable, and maintainable program."
+  summary: "Data analysis, visualization and ML (PyTorch) applications. Capable of writing scalable, testable, and maintainable program."
 
 - name: Java
   logo: /images/sections/skills/java.png
