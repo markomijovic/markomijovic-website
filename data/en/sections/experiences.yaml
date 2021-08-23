@@ -11,6 +11,24 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: AltaML.
+    url: "https://www.altaml.com/"
+    location: Calgary
+    # company overview
+    overview: AltaML is a ML/AI company that offers consulting services and compromises of various stand-alone companies within AltaML.
+  positions:
+  - designation: Machine Learning Developer Intern
+    start: July 2021
+    end: Sep 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - I worked on a $20M/yr ROI machine learning project and brought an idea to proof of concept functional product
+    - I coordinated with the client on technical aspects of the project and set mutual business expectations / measures of success
+    - I utilized mechanical engineering experience to transfer the subject matter knowledge and effectively implement it in the code
+    - I developed production ready, scale-able, and maintainable code following AGILE methodology
+    - I implemented various statistical machine learning frameworks in Python and Microsoft Azure Machine Learning Studio
+
+- company:
     name: TC Energy.
     url: "https://www.tcenergy.com"
     location: Calgary
@@ -22,9 +40,10 @@ experiences:
     end: Aug 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Data analysis and visualization using the Python programming language
-    - Automation of repetitive day-to-day tasks with simple data pipelines
-    - Documentation of operational pipeline integrity changes 
+    - I built ETL pipelines to automate data analysis, visualization, and management reporting using Python and Pandas/Numpy/SQlite3 libraries.
+    - With my ability to automate various data processing tasks, I saved valuable time of senior engineers.
+    - I showcased some aspects of my work in a company wide lunch and learn.
+    - I received positive feedback from my manager for the outstanding problem solving skills and my ability to time manage multiple sensitive projects at once.
 
 - company:
     name: HeatLink.
@@ -36,6 +55,4 @@ experiences:
     start: May 2018
     end: Aug 2018
     responsibilities:
-    - Design of a cam and follower fatigue-inducing mechanism
-    - Empirical sensor data acquisition and data analysis in MATLAB
-    - Technical documentation of warranty claims
+    - I designed a fatigue-inducing mechanism whose data helped management’s decision making process. This in result improved product quality and allowed the company to better illustrate the advantages of their in-house manufacturing operations.

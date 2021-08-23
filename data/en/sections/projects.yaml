@@ -19,27 +19,62 @@ buttons:
 - name: Learning
   filter: "learning"
 
-# your projects
-projects:
+# your projects 
+projects: 
+- name: To Do List
+  logo: /images/sections/projects/nodejs.png
+  #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://github.com/markomijovic/To-Do-List  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Node.js/Express.js to do list app with MongoDB database.
+  tags: ["personal", "js", "node", "express", "mongodb"]
+
+- name: Personal Blog
+  logo: /images/sections/projects/nodejs.png
+  #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://github.com/markomijovic/Personal-Blog  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Node.js/Express.js personal blog with MongoDB database.
+  tags: ["personal", "js", "node", "express", "mongodb"]
+
+- name: Finance Newsletter
+  logo: /images/sections/projects/nodejs.png
+  #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://github.com/markomijovic/finance-newsletter  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Node.js/Express.js free subscription newsletter. Integrated Mailchimp API.
+  tags: ["personal", "js", "node", "express", "bootstrap"]
+
 - name: Sorting Visualization
-  logo: /images/sections/projects/javascript.png
+  logo: /images/sections/projects/react.png
   #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: https://markomijovic.github.io/sorting-visual/  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: React app that visualizes the process of sorting arrays.
   tags: ["personal", "js", "react"]
 
+- name: Simon Game
+  logo: /images/sections/projects/javascript.png
+  #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://github.com/markomijovic/Simon-Game  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Native js mimic of the memory game Simon.
+  tags: ["personal", "js", "jquery"]
+
+- name: Word Anagram
+  logo: /images/sections/projects/java.png
+  #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://github.com/markomijovic/ensf594-anagram  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: O(n*klog(k)) time and space solution that find all anagram words in a provided file. n==number of words. k==word length
+  tags: ["academic", "java"]
+
+- name: Dice Throw
+  logo: /images/sections/projects/javascript.png
+  #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://github.com/markomijovic/Dice-Throw  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: One of my first js projects.
+  tags: ["learning", "js"]
+
 - name: Bearing Failure Analysis
   logo: /images/sections/projects/python.png
   repo: https://github.com/markomijovic/mechanical-engineering-capstone
   summary: Statistical and machine learning analysis of bearing failure acceleration data.
-  tags: ["academic","python", "pytorch", "scikit"]
-
-- name: Social Media Mockup
-  logo: /images/sections/projects/javascript.png
-  repo: https://github.com/markomijovic/social-media-mockup # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: https://markomijovic.github.io/sorting-visual/  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Mockup version of a typical social media website. MERN stack + GraphQL API for document data format.
-  tags: ["personal","learning", "js", "MERN"]
+  tags: ["academic", "python", "scikit"]
 
 - name: WordNet
   logo: /images/sections/projects/java.png
@@ -53,11 +88,11 @@ projects:
   repo: https://github.com/markomijovic/8Puzzle-Solver/tree/master
   #url: ""
   summary: Java solver for the sliding 8-Puzzle played on an n by n grid.
-  tags: ["learning", "java"]
+  tags: ["academic", "learning", "java"]
 
-- name: Tournament Bracket Creator
-  logo: /images/sections/projects/c-logo.png
-  repo: https://github.com/markomijovic/tournamet-tracker
+- name: Financial Dashboard
+  logo: /images/sections/projects/python.png
+  repo:   https://github.com/markomijovic/financial-dashboard/blob/master/dashboard.py
   #url: ""
-  summary: C# application that allows the user to create a single elimination tournament.
-  tags: ["personal","c#", "sql", ".NET"]
+  summary: Python web visualization of a selected company's annual financial performance.
+  tags: ["learning", "java"]
