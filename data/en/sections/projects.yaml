@@ -21,6 +21,13 @@ buttons:
 
 # your projects 
 projects: 
+- name: Finance Newsletter
+  logo: /images/sections/projects/nodejs.png
+  #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://github.com/markomijovic/finance-newsletter  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Node.js/Express.js free subscription newsletter. Integrated Mailchimp and Stripe API.
+  tags: ["personal", "js", "node", "express", "bootstrap", "stripe"]
+
 - name: To Do List
   logo: /images/sections/projects/nodejs.png
   #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -34,13 +41,6 @@ projects:
   url: https://github.com/markomijovic/Personal-Blog  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Node.js/Express.js personal blog with MongoDB database.
   tags: ["personal", "js", "node", "express", "mongodb"]
-
-- name: Finance Newsletter
-  logo: /images/sections/projects/nodejs.png
-  #repo: https://github.com/markomijovic/sorting-visualizer # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: https://github.com/markomijovic/finance-newsletter  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Node.js/Express.js free subscription newsletter. Integrated Mailchimp API.
-  tags: ["personal", "js", "node", "express", "bootstrap"]
 
 - name: Sorting Visualization
   logo: /images/sections/projects/react.png
