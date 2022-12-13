@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 4
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -15,37 +15,37 @@ experiences:
     url: "https://www.amazon.jobs/en/"
     location: Vancouver
     # company overview
-    overview: Amazon is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.
+    overview: Amazon.com, Inc. is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.
   positions:
-  - designation: Software Development Intern
+  - designation: Software Developer Intern
     start: May 2022
     end: August 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - I designed, built, and documented a full-stack static website application written in TypeScript, React, and Java used by accounting staff worldwide which resulted in its inclusion to product deliverable for Q4 2022.
-    - I utilized CI/CD pipelines and AWS service such as S3, Lambda, API Gateway, CloudFront, and DynamoDB to develop a cost-effective deployment solution which safely deploys the product to customers in real-time.
-    - I managed and provisioned all the needed AWS resources using AWS CDK with infrastructure as code on AWS CloudFormation. This reduced the risk of error in manual deployment and thus increased application reliability and safety as well as saved development time that was instead spent of solving customer problems.
-	  - I modeled new RESTful APIs with the API first design approach using an interface definition language (Smithy) and implemented the back-end business logic in Java based on the API models. This allowed quick implementation and testing of any changes to the API or business logic in order to satisfy new customer demands.
-    - I developed the application's front-end in Typescript and React and used React Router to asynchronously handle client-side routing of API requests through AWS API Gateway to an AWS Lambda.
-    - I thoroughly documented the design and implementation of the application and added unit test coverage for both the front-end and back-end solutions with Jest and Mockito respectively.
-	  - I worked in an agile environment and planned Sprints to deliver software that was well tested, maintainable, and met all rigours SLA goals that Amazon has for its customer facing applications.
-    - I successfully handled large amounts of product ambiguity and exceeded project expectations in the given time-frame while on-boarding and learning new internal development tools at Amazon.
+    - I designed, built, and documented a full-stack static website application written in TypeScript, React, and Java used by accounting staff worldwide which resulted in its inclusion to product deliverable for Q4 2022
+    - I utilized CI/CD pipelines and AWS service such as S3, Lambda, API Gateway, CloudFront, and DynamoDB to develop a cost-effective deployment solution which safely deploys the product to customers in real-time
+    - I managed and provisioned all the needed AWS resources using AWS CDK with infrastructure as code on AWS CloudFormation. This reduced the risk of error in manual deployment and thus increased application reliability and safety as well as saved development time that was instead spent of solving customer problems
+    - I modeled new RESTful APIs with the API first design approach using an interface definition language (Smithy) and implemented the back-end business logic in Java based on the API models. This allowed quick implementation and testing of any changes to the API or business logic in order to satisfy new customer demands
+    - I developed the application's front-end in Typescript and React and used React Router to asynchronously handle client-side routing of API requests through AWS API Gateway to an AWS Lambda
+    - I thoroughly documented the design and implementation of the application and added unit test coverage for both the front-end and back-end solutions with Jest and Mockito respectively
+    - I worked in an agile environment and planned Sprints to deliver software that was well tested, maintainable, and met all rigours SLA goals that Amazon has for its customer facing applications
+    - I successfully handled large amounts of product ambiguity and exceeded project expectations in the given time-frame while on-boarding and learning new internal development tools at Amazon
 
 - company:
     name: Vidyard.
     url: "https://www.vidyard.com/"
     location: Kitchener
     # company overview
-    overview: Vidyard creates software to host and analyze video performance.
+    overview: Vidyard is a software company headquartered in Kitchener, Ontario, that creates software to host and analyze video performance.
   positions:
-  - designation: Sofwtare Development Intern
+  - designation: Software Developer Intern
     start: January 2022
-    end: April 2022
+    end: February 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - I worked on core front-end and back-end features with JavaScript, Vue.js and Ruby following the MVC design pattern which helped the team deliver on the promised timeline of a new YouTube integration functionality.
-	  - I refactored the front-end implementation of a video captions core business feature used 300 times per week and analyzed customer feedback to further improve the feature which increased the customer satisfaction.
-	  - I self-initiated bug fixes which improved the SLI of a third party service integration from 98.2\% to 99.5\%.
+    - I worked on core front-end and back-end features with JavaScript, Vue.js and Ruby following the MVC design pattern which helped the team deliver on the promised timeline of a new YouTube integration functionality
+    - I refactored the front-end implementation of a video captions core business feature used 300 times per week and analyzed customer feedback to further improve the feature which increased the customer satisfaction
+    - I self-initiated bug fixes which improved the SLI of a third party service integration from 98.2% to 99.5%
 
 - company:
     name: AltaML.
@@ -56,7 +56,7 @@ experiences:
   positions:
   - designation: Machine Learning Developer Intern
     start: July 2021
-    end: September 2021
+    end: Sep 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - I worked on a $20M/yr ROI machine learning project and brought an idea to proof of concept functional product
@@ -74,7 +74,7 @@ experiences:
   positions:
   - designation: Risk and Engineering Strategy Intern
     start: May 2019
-    end: August 2020
+    end: Aug 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - I built ETL pipelines to automate data analysis, visualization, and management reporting using Python and Pandas/Numpy/SQlite3 libraries.
