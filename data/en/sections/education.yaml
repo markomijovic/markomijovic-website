@@ -10,13 +10,17 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Master of Engineering - Department of Electrical and Computer Engineering; Specialization in Software Engineering 
-  icon: fa-spinner 
+- name: Master of Engineering - Department of Electrical and Computer Engineering; Specialization in Software Engineering
+  icon: fa-graduation-cap
   timeframe: 2021-2022
   institution:
     name: University of Calgary
     url: "#"
-- name: Bachelor of Science - Department of Mechanical Engineering; Minor in Mechatronics 
+  grade: #(optional)
+    scale: CGPA
+    achieved: 4.00
+    outOf: 4.00
+- name: Bachelor of Science - Department of Mechanical Engineering; Minor in Mechatronics
   icon: fa-graduation-cap
   timeframe: 2016-2021
   institution:

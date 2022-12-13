@@ -11,19 +11,19 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Python
-  logo: /images/sections/skills/python.png
-  summary: "Fluent. Capable of writing scalable, testable, and maintainable program."
-
 - name: Java
   logo: /images/sections/skills/java.png
   summary: "Fluent. Capable of writing scalable, testable, and maintainable program."
 
-- name: JavaScript
+- name: TypeScript and JavaScript
   logo: /images/sections/skills/javascript.png
   summary: "Fluent. Capable of writing scalable, testable, and maintainable program."
 
-- name: C
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Fluent. Capable of writing scalable, testable, and maintainable program."
+
+- name: C++
   logo: /images/sections/skills/c.png
   summary: "Familiar. Did few school data structure assignments."
 
@@ -37,15 +37,12 @@ skills:
 
 - name: Web Development Frameworks
   logo: /images/sections/skills/seo.png
-  summary: "Fluent with: Node.js, Express.js, EJS, MongoDB/Mongoose. All used in various personal projects.
-
-
-  Familiar with: React, Boostrap, jQuery"
+  summary: "Fluent with: React, Vue, Node.js, Express.js, EJS, MongoDB/Mongoose."
 
 - name: Data Science Frameworks
   logo: /images/sections/skills/data-science.png
   summary: "Fluent with: Scikit-Learn, Pandas, Numpy, Azure Machine Learning Studio. Used in a professional environment.
-  
+
 
   Familiar with: PyTorch, XgBoost, PowerBi"
 
