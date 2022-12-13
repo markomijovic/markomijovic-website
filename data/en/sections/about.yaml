@@ -9,10 +9,6 @@ section:
 
 # your designation
 designation: Software Developer
-# your company information
-company:
-  name: University of Calgary.
-  url: "https://schulich.ucalgary.ca/electrical-software/programs/graduate/master-engineering-course-based-software"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
